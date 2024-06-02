@@ -1,0 +1,10 @@
+[2024-06-02 06:53:25] [INFO    ] discord_bot: Logged in as joemama
+[2024-06-02 06:53:25] [INFO    ] discord_bot: discord.py API version: 2.3.2
+[2024-06-02 06:53:25] [INFO    ] discord_bot: Python version: 3.11.9
+[2024-06-02 06:53:25] [INFO    ] discord_bot: Running on: Windows 10 (nt)
+[2024-06-02 06:53:25] [INFO    ] discord_bot: -------------------
+[2024-06-02 06:53:25] [INFO    ] discord_bot: Loaded extension 'fun'
+[2024-06-02 06:53:25] [INFO    ] discord_bot: Loaded extension 'general'
+[2024-06-02 06:53:25] [INFO    ] discord_bot: Loaded extension 'moderation'
+[2024-06-02 06:53:25] [INFO    ] discord_bot: Loaded extension 'owner'
+[2024-06-02 06:53:25] [INFO    ] discord_bot: Loaded extension 'template'
